@@ -1,4 +1,17 @@
 /* styles.css */
+
+.neonText {
+  color: white;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -13,6 +26,7 @@ header {
     background-image: url('ba.jpg'); /* Replace with your image URL or file path */
     background-size: cover; /* Ensure the image covers the entire header */
     background-position: center; /* Position the image in the center */
+    background-size: 100% 100%;
     color: white;
     padding: 100px 20px;
     border-bottom: 5px solid ##2F4F4F;
