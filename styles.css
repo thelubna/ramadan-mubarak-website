@@ -10,7 +10,7 @@ body {
 
 header {
     position: relative;
-    background-image: url('https://github.com/thelubna/ramadan-mubarak-website/blob/main/background.jpeg'); /* Replace with your image URL or file path */
+    background-image: url('https://github.com/thelubna/ramadan-mubarak-website/blob/main/background.jpg'); /* Replace with your image URL or file path */
     background-size: cover; /* Ensure the image covers the entire header */
     background-position: center; /* Position the image in the center */
     color: white;
