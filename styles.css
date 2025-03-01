@@ -9,9 +9,16 @@ body {
 }
 
 header {
-    background-color: #2d6a4f;
-    color: #fff;
-    padding: 50px 20px;
+    position: relative;
+    background-image: url('https://tse2.mm.bing.net/th?id=OIF.fTAW7HgkE4rS8gU2B8zrWA&pid=Api&P=0&h=180'); /* Replace with your image URL or file path */
+    background-size: cover; /* Ensure the image covers the entire header */
+    background-position: center; /* Position the image in the center */
+    color: white;
+    padding: 100px 20px;
+    border-bottom: 5px solid #e63946;
+    text-align: center;
+    z-index: 1;
+    overflow: hidden;
 }
 
 header h1 {
